@@ -1,0 +1,2 @@
+# AppNews
+Using jetpackcompose
