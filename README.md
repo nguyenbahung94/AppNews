@@ -1,2 +1,2 @@
 # AppNews
-Using jetpackcompose
+Slide Project Using Jetpack Compose and more
