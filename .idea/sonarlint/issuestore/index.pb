@@ -17,3 +17,25 @@ C
 build.gradle.kts,d/b/dbcff70658daf80b53ce624f6adcaa529df5ed8d
 F
 app/proguard-rules.pro,9/e/9e08934d811afe28fbc77aaa3c0d747b94348db9
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+u
+Eapp/src/main/java/com/example/appnews/presentation/onboarding/Page.kt,0/d/0da4a625d41524d24e130fd5f532cf84da179bf8
+Š
+Zapp/src/main/java/com/example/appnews/presentation/onboarding/components/OnBoardingPage.kt,7/4/7491f31d3c6904bbb0e9f92155d77af3f4da3e2f
+l
+<app/src/main/java/com/example/appnews/presentation/Dimens.kt,0/1/017219e8450922b082f63733cf0210af1faa1615
+f
+6app/src/main/java/com/example/appnews/ui/theme/Type.kt,6/d/6d8517e3b894743f4b2a4afe53436137fc2e0af5
+Œ
+\app/src/main/java/com/example/appnews/presentation/onboarding/components/OnBoardingScreen.kt,d/b/db6af268db3e12e4e0f924916980766d736d26c4
+w
+Gapp/src/main/java/com/example/appnews/presentation/common/NewsButton.kt,f/1/f18ccca8f482fc415059d97da67f51b3981ad631
+‰
+Yapp/src/main/java/com/example/appnews/presentation/onboarding/components/PageIndicator.kt,8/d/8daeba885e6ce26d0ef5952ae80fb8b351240c28
+x
+Happ/src/main/java/com/example/appnews/domain/manager/LocalUserManager.kt,5/3/53973e42ca7f78cbac8286728dcf5959d0f5cfda
+z
+Japp/src/main/java/com/example/appnews/data/manager/LocalUserManagerImpl.kt,3/f/3fdab4eafeeeac7dc6cf13e826a9f4142fbc6dae
+g
+7app/src/main/java/com/example/appnews/util/Constants.kt,5/5/555e88ac527ab088abeedc1af9164535383733eb
